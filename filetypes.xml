@@ -1,0 +1,27 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
+    <extensionMap>
+      <mapping pattern="lista02_exercicio01_questao14" type="Python" />
+      <mapping pattern="lista05_lista01_questao15" type="Python" />
+      <mapping pattern="lista05_lista02_questao45" type="Python" />
+      <mapping pattern="lista01_exercicio01_questao01" type="Python" />
+      <mapping pattern="exercicio05" type="Python" />
+      <mapping pattern="lista04_list001_exercicio25" type="Python" />
+      <mapping pattern="lista04_list01_exercicio27" type="Python" />
+      <mapping pattern="lista02_exercicio01_questao04" type="Python" />
+      <mapping pattern="lista02_exercicio01_questao03" type="Python" />
+      <mapping pattern="lista02_exercicio01_questao02" type="Python" />
+      <mapping pattern="lista01_turtle1_exercicio01" type="Python" />
+      <mapping pattern="exercicio17" type="Python" />
+      <mapping pattern="lista04_list01_exercicio15" type="Python" />
+      <mapping pattern="lista02_exercicio01_questao16" type="Python" />
+      <mapping pattern="lista05_lista01_questao02" type="Python" />
+      <mapping pattern="lista05_lista01_questastao03" type="Python" />
+      <mapping pattern="lista05_lista01_questao04" type="Python" />
+      <mapping pattern="lista02_exercicio01_questao12" type="Python" />
+      <mapping pattern="lista05_lista01_questao01" type="Python" />
+      <mapping pattern="lista02_exercicio01_questao10" type="Python" />
+    </extensionMap>
+  </component>
+</application>
